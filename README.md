@@ -17,13 +17,13 @@ Outils :
 - Kanban
 
 ## Diagramme de cas d'usage
-Le diagramme de cas d'usage est : [ici]()
+Le diagramme de cas d'usage est : [ici](https://github.com/KGabard/OC_P10_LearnAtHome/blob/main/Diagrammes%20de%20cas%20d'usage.png)
 
 ## User stories
-Les user stories sont présente dans la section wiki : [ici]()
+Les user stories sont présente dans la section wiki : [ici](https://github.com/KGabard/OC_P10_LearnAtHome/wiki)
 
 ## Maquettes
 Les maquettes sont disponibles : [ici](https://www.figma.com/file/dYJdOu6OfPnyi4UB4mgQcZ/Learn%40Home?node-id=578%3A5684&t=KAGKI5tUSKfWTmSC-1)
 
 ## Kanban
-Le Kanban du projet est disponible : [ici]()
+Le Kanban du projet est disponible : [ici](https://github.com/users/KGabard/projects/1)
